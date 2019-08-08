@@ -4,8 +4,9 @@ Helps Telecommunications and Media industry to harness the power of data they ha
 
 ### Technical Skills
 
-`Java`
+```Java```
 
+---
 ### Other Things I do
  - Learn
  - Draw

@@ -4,7 +4,7 @@ Helps Telecommunications and Media industry to harness the power of data they ha
 
 ### Technical Skills
 
-```Java``` ```C++```
+``` Java ```  ``` C++ ```
 
 
 ---

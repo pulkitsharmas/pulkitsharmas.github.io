@@ -4,7 +4,8 @@ Helps Telecommunications and Media industry to harness the power of data they ha
 
 ### Technical Skills
 
-```Java```
+```Java``` ```C++```
+
 
 ---
 ### Other Things I do
@@ -14,5 +15,3 @@ Helps Telecommunications and Media industry to harness the power of data they ha
  - Roam
  - Eat
  - Sleep
- 
- This is a test page in markdown :sunny:

@@ -1,6 +1,6 @@
 # Pulkit Sharma
 
-Helps Telecommunications and Media industry to harness the power of data they have. Also, loves to explore the city.
+Helps Telecommunications and Media industry to harness the power of data they have. Also, loves to explore the city. :heart:
 
 ### Technical Skills
 
